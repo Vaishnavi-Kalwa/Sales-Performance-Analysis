@@ -56,9 +56,13 @@ Total profit contribution
 # Key Insights
 
 Total Sales: $824 million.
+
 Total Profit: $307.8 million.
+
 Total Quantity Sold: 360,764 units.
+
 Los Angeles recorded sales of $36.1 million, making it one of the top-performing regions.
+
 In 2018, a significant decline in sales was observed:
 Q3:$43.5 million sales with 18,933 units
 Q4: $21.3 million sales with 9,180 units
